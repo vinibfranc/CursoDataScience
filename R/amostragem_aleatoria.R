@@ -10,3 +10,4 @@ length(amostra[amostra==0])
 
 set.seed(2345)
 sample(c(100), 1)
+
