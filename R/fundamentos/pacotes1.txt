@@ -1,0 +1,44 @@
+Pacotes
+
+-> Implementam funções
+-> Desenvolvidos no mundo inteiro
+-> Totalmente open source
+-> Existem mais de 10 mil
+
+Exemplos de temas de pacotes
+
+-> Machine Learning
+-> Gráficos
+-> Séries temporais
+-> Distribuições de probabilidade
+-> Finanças
+-> Genética
+
+Pacotes populares:
+
+-> Dplyr: manipulação de dados
+-> Devtools: desenvolvimento (ciação de pacotes)
+-> Foreign: importar dados de outras ferramentas (SAS, SPSS, etc)
+-> Ggplot2: visualização
+
+Disponibilidade de pacotes
+
+-> CRAN (Compreensive R Archive Network): repositórios e espelhos
+
+Instalação
+
+-> Linha de comando
+   * install.packages("arules", dependencies=TRUE)
+  
+-> Manual
+   * Localizar a página do CRAN do pacote
+   * Download dos binários conforme SO
+   
+Carregar e descarregar
+
+-> library(arules)
+-> detach("packages:arules", unload=TRUE)
+
+CRAN Task Views
+
+-> Lista de pacotes, artigos e tópicos relacionadas a determinado assunto

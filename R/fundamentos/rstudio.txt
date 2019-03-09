@@ -1,0 +1,11 @@
+Instalação
+
+-> Instalar R
+-> Baixar e instalar RStudio
+
+Interface
+
+-> Em cima a esquerda: Scripts
+-> Em baixo a esquerda: Console
+-> Em cima a direita: Ambiente
+-> Em baixo a direita: gráficos, packages, help, viewer, etc.

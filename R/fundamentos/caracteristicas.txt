@@ -1,0 +1,14 @@
+Características
+
+-> Ambiente de linha de comando
+-> Software 100% open source
+-> Ativo: builds frequentes
+-> Extensível: pacotes
+-> Multi-plataforma: Windows, Mac e Linux
+-> Sensível a maiúsculas e minúsculas
+-> Milhares de funções de análise de dados e algoritmos caixa-preta
+-> Ambiente de produção e visualização de gráficos
+-> Processamento em memória
+-> Integração "out of box" com quase tudo: Oracle, SQL Server, .NET, Java, Python, Tableau, Hadoop...
+-> RGui: ambiente de linha de comando simples com interface de digitação mais dispositivo gráfico
+-> RStudio: IDE mais avançada, conta com versão 100% gratuita e será usada no curso
