@@ -1,0 +1,10 @@
+# Funções
+
+getwd()
+sd(x)
+
+# argumentos
+head(x=iris, n=2)
+head(iris)
+head(iris, 2)
+head(n=22)
