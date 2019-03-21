@@ -1,0 +1,63 @@
+Tipos de variável
+
+-> Texto (String)
+-> Inteiro
+-> Float
+-> Lógico
+
+-> Declaração em Python é implícita: fracamente tipada
+
+Exemplos
+
+x = 1
+
+y = 3.13
+
+z = "Python"
+z = 'Python'
+
+w = True
+w = False
+
+Principais operadores
+
+-> +, -, /, *
+
+"Calculadora"
+
+x = 10
+y = 20
+w = (x + y) * z / 100
+
+Exibir valores no console
+
+print("Hello World")
+print(x)
+
+Verificar tipo
+
+x = 10
+type(x)
+
+y = "Python"
+type(str)
+
+Entrada de valores
+
+x = input("Informe um valor: ")
+
+Conversão de valores
+
+x = int(z)
+w = str(m)
+t = float(l)
+
+Comentário
+
+# Este é um comentário
+x = 10 # a partir daqui é um comentário
+'''
+Aqui começa,
+aqui continua
+e aqui termina
+'''
